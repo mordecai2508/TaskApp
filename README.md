@@ -88,7 +88,8 @@ TaskApp/
    - Elimina tareas completadas
    - Filtra tareas por estado
 
-    ![image](https://github.com/user-attachments/assets/b44c0632-3466-4542-b0b3-b1f6bd9bde4c)
+   ![image](https://github.com/user-attachments/assets/369f69d9-7d74-4052-adb3-9fdef0e73ece)
+
    ![image](https://github.com/user-attachments/assets/a6d6db97-0107-40b7-bd30-f926c3318ccb)
 
 
@@ -104,7 +105,7 @@ TaskApp/
 
 Carlos Daniel Ramirez Avendaño 
 
-Enlace del Proyecto: [https://github.com/tu_usuario/task-management-pro](https://github.com/tu_usuario/task-management-pro)](https://github.com/mordecai2508/TaskApp.git)
+Enlace del Proyecto: [(https://github.com/mordecai2508/TaskApp.git)]
 
 ## 🙏 Agradecimientos
 
