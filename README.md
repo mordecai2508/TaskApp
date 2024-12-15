@@ -105,7 +105,7 @@ TaskApp/
 
 Carlos Daniel Ramirez Avendaño 
 
-Enlace del Proyecto: [(https://github.com/mordecai2508/TaskApp.git)]
+Enlace del Proyecto: https://github.com/mordecai2508/TaskApp.git
 
 ## 🙏 Agradecimientos
 
