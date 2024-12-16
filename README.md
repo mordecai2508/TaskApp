@@ -31,7 +31,7 @@ Task Management Pro es una aplicación robusta de gestión de tareas desarrollad
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/mordecai2508/TaskApp.git)
+git clone https://github.com/mordecai2508/TaskApp.git
 ```
 
 2. Crear y activar un entorno virtual:
